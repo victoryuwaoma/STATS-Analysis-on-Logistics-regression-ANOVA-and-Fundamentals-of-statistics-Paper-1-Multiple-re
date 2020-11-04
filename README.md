@@ -1,5 +1,4 @@
 # Statistics for Data Analytics
-
 ## Project Title - Analysis on Logistics regression, ANOVA and Fundamentals of statistics (Paper 1) &amp; Multiple regression and Time series (Paper 2)
 
 ## 🎓 Need to Know
